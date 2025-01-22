@@ -485,13 +485,19 @@ http://1.94.31.214:35455/huya/660000
 
 #EXTINF:-1 tvg-name="英雄联盟赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",英雄联盟赛事频道
 https://live.metshop.top/huya/660000
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=300000
-https://live.iill.top/huya/660000
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
-http://al.hls.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1-imgplus.m3u8?seqid=3206073409142&uid=1468779688308&fs=bgct&wsSecret=572c55e91992cd68e2c2e3f12f88fa6f&wsTime=678e5119&ctype=tars_mp&uuid=866367674&ver=1&t=102&sv=2110211124
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=700000
-http://1.94.31.214:35455/huya/660000
+#EXTGRP:英雄联盟赛事频道
 
+#EXTINF:-1 tvg-name="英雄联盟赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",英雄联盟赛事频道
+https://live.iill.top/huya/660000
+#EXTGRP:英雄联盟赛事频道
+
+#EXTINF:-1 tvg-name="英雄联盟赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",英雄联盟赛事频道
+http://al.hls.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1-imgplus.m3u8?seqid=3206073409142&uid=1468779688308&fs=bgct&wsSecret=572c55e91992cd68e2c2e3f12f88fa6f&wsTime=678e5119&ctype=tars_mp&uuid=866367674&ver=1&t=102&sv=2110211124
+#EXTGRP:英雄联盟赛事频道
+
+#EXTINF:-1 tvg-name="英雄联盟赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",英雄联盟赛事频道
+http://1.94.31.214:35455/huya/660000
+#EXTGRP:英雄联盟赛事频道
 
 
 
