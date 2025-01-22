@@ -167,10 +167,9 @@ http://php.jdshipin.com:8880/smt.php?id=jade_twn
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="港澳台日频道",TVB黄金翡翠台
 http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="港澳台日频道",TVB星河
-#线路1
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="港澳台日频道",TVB星河-线路1
 http://php.jdshipin.com:8880/smt.php?id=Xinhe
-#线路2
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB星河.png" group-title="港澳台日频道",TVB星河-线路2
 https://www.mytvsuper.xyz/tvb/xinghe/stream.m3u8
 #EXTINF:-1 tvg-name="TVB明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="港澳台日频道",TVB明珠台
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
@@ -475,89 +474,77 @@ http://39.136.206.31:6610/PLTV/77777777/224/3221225730/index.m3u8?servicetype=1&
 http://39.136.206.14:6610/PLTV/77777777/224/3221225791/index.m3u8?servicetype=1&stbId=005202000001324021C024D9041DF7BD&UserToken=JJgFvJJgFv7X2qhARs6DkHf4esrJzVB9&UserName=M13977482305&stbId=005202000001324021C024D9041DF7BD&IASHttpSessionId=RR778820250116114420473366&ispcode=1108
 
 #游戏竞技频道
-#EXTINF:-1 , tvg-name="英雄联盟赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",英雄联盟赛事频道
-#线路1
+#EXTINF:-1 , tvg-name="英雄联盟赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",英雄联盟赛事频道-线路1
 https://live.metshop.top/huya/660000
-#线路2
+#EXTINF:-1 , tvg-name="英雄联盟赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",英雄联盟赛事频道-线路2
 https://live.iill.top/huya/660000
-#线路3
+#EXTINF:-1 , tvg-name="英雄联盟赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",英雄联盟赛事频道-线路3
 http://al.hls.huya.com/src/78941969-2559461593-10992803837303062528-2693342886-10057-A-0-1-imgplus.m3u8?seqid=3206073409142&uid=1468779688308&fs=bgct&wsSecret=572c55e91992cd68e2c2e3f12f88fa6f&wsTime=678e5119&ctype=tars_mp&uuid=866367674&ver=1&t=102&sv=2110211124
-#线路4
+#EXTINF:-1 , tvg-name="英雄联盟赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",英雄联盟赛事频道-线路4
 http://1.94.31.214:35455/huya/660000
-#EXTINF:-1 , tvg-name="王者荣耀赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",王者荣耀赛事频道
-#线路1
+#EXTINF:-1 , tvg-name="王者荣耀赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",王者荣耀赛事频道-线路1
 http://hw-game.flv.huya.com/src/78941969-2592787562-11135937784265572352-2914030356-10057-A-0-1-imgplus.flv?wsSecret=4a5e671e282359de7b0c6ca2d5e2927f&ctype=tars_mp&fs=bgct&ver=1&t=102&seqid=3206055777796&uuid=1916059367&wsTime=678e446c&uid=1468765302238&sv=2110211124
-#线路2
+#EXTINF:-1 , tvg-name="王者荣耀赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",王者荣耀赛事频道-线路2
 https://live.metshop.top/huya/660002
-#线路3
+#EXTINF:-1 , tvg-name="王者荣耀赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",王者荣耀赛事频道-线路3
 http://1.94.31.214:35455/huya/660002
-#EXTINF:-1 , tvg-name="无畏契约赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",无畏契约赛事频道
-#线路1
+#EXTINF:-1 , tvg-name="无畏契约赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",无畏契约赛事频道-线路1
 http://hs.flv.huya.com/src/1099531728424-1099531728424-86331625788407808-2199063580304-10057-A-0-1-imgplus.flv?ver=1&wsSecret=60a1c0f3987c78f3c3f6987a5348802e&wsTime=678e453f&fs=bgct&t=102&ctype=tars_mp&uuid=2127425193&sv=2110211124&uid=1468759489604&seqid=3206050176528
-#线路2
+#EXTINF:-1 , tvg-name="无畏契约赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",无畏契约赛事频道-线路2
 https://live.metshop.top/huya/660679
-#线路3
+#EXTINF:-1 , tvg-name="无畏契约赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",无畏契约赛事频道-线路3
 http://1.94.31.214:35455/huya/660679
-#EXTINF:-1 , tvg-name="穿越火线赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",穿越火线赛事频道
-#线路1
+#EXTINF:-1 , tvg-name="穿越火线赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",穿越火线赛事频道-线路1
 http://hs.flv.huya.com/src/78941969-2543231004-10923093988353245184-2693349284-10057-A-0-1.flv?wsSecret=d105f98ea92e2705adfa4fcde005a51d&fs=bgct&uuid=2166659149&ver=1&ctype=tars_mp&t=102&sv=2110211124&wsTime=678e4566&seqid=3206036838296&uid=1468746112138
-#线路2
+#EXTINF:-1 , tvg-name="穿越火线赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",穿越火线赛事频道-线路2
 https://live.metshop.top/huya/660101
-#线路3
+#EXTINF:-1 , tvg-name="穿越火线赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",穿越火线赛事频道-线路3
 http://1.94.31.214:35455/huya/660101
-#EXTINF:-1 , tvg-name="DOTA2赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",DOTA2赛事频道
-#线路1
+#EXTINF:-1 , tvg-name="DOTA2赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",DOTA2赛事频道-线路1
 http://hs.flv.huya.com/src/78941969-2556634312-10980660757871460352-2881713536-10057-A-0-1.flv?ver=1&fs=bgct&uuid=2237921733&sv=2110211124&wsTime=678e45ae&ctype=tars_mp&wsSecret=851b8fe8a8d2995b099de124680b65e0&t=102&seqid=3206065726485&uid=1468774929064
-#线路2
+#EXTINF:-1 , tvg-name="DOTA2赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",DOTA2赛事频道-线路2
 https://live.metshop.top/huya/476318
-#线路3
+#EXTINF:-1 , tvg-name="DOTA2赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",DOTA2赛事频道-线路3
 http://1.94.31.214:35455/huya/476318
-#EXTINF:-1 , tvg-name="斯诺克赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",斯诺克赛事频道
-#线路1
+#EXTINF:-1 , tvg-name="斯诺克赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",斯诺克赛事频道-线路1
 http://hs.flv.huya.com/src/1099531627777-1099531627777-85899350214967296-2199063379010-10057-A-0-1-imgplus.flv?t=102&ver=1&sv=2110211124&seqid=3206056137053&ctype=tars_mp&fs=bgct&uid=1468765304578&wsTime=678e45d1&uuid=2272975818&wsSecret=0743fd4f91d372eb237103cc84c35662
-#线路2
+#EXTINF:-1 , tvg-name="斯诺克赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",斯诺克赛事频道-线路2
 https://live.metshop.top/huya/880214
-#线路3
+#EXTINF:-1 , tvg-name="斯诺克赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",斯诺克赛事频道-线路3
 http://1.94.31.214:35455/huya/880214
-#EXTINF:-1 , tvg-name="和平精英赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",和平精英赛事频道
-#线路1
+#EXTINF:-1 , tvg-name="和平精英赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",和平精英赛事频道-线路1
 http://hs.flv.huya.com/src/78941969-2757820485-11844748791313858560-3120471256-10057-A-0-1-imgplus.flv?wsTime=678e45e8&fs=bgct&t=102&sv=2110211124&wsSecret=f643a8912798ac28f4b02d17289677ff&ver=1&seqid=3206056160373&uid=1468765304730&uuid=2296143890&ctype=tars_mp
-#线路2
+#EXTINF:-1 , tvg-name="和平精英赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",和平精英赛事频道-线路2
 https://live.metshop.top/huya/660006
-#线路3
+#EXTINF:-1 , tvg-name="和平精英赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",和平精英赛事频道-线路3
 http://1.94.31.214:35455/huya/660006
-#EXTINF:-1 , tvg-name="车竞速赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",车竞速赛事频道
-#线路1
+#EXTINF:-1 , tvg-name="赛车竞速赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",赛车竞速赛事频道-线路1
 http://hs.flv.huya.com/src/78941969-2653382316-11396190271004737536-3120471194-10057-A-0-1.flv?fs=bgct&uid=1468765305504&wsTime=678e465e&uuid=2414160671&ver=1&sv=2110211124&ctype=tars_mp&seqid=3206056279164&t=102&wsSecret=9cd40fcff945f72e73974e612323f7d5
-#线路2
+#EXTINF:-1 , tvg-name="赛车竞速赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",赛车竞速赛事频道-线路2
 https://live.metshop.top/huya/660117
-#线路3
+#EXTINF:-1 , tvg-name="赛车竞速赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",赛车竞速赛事频道-线路3
 http://1.94.31.214:35455/huya/660117
-#EXTINF:-1 , tvg-name="英雄手游赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",英雄手游赛事频道
-#线路1
+#EXTINF:-1 , tvg-name="英雄手游赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",英雄手游赛事频道-线路1
 http://hs.flv.huya.com/src/1099531728421-1099531728421-86331612903505920-2199063580298-10057-A-0-1-imgplus.flv?wsSecret=e9929af4e05309d8232054d21a89649c&uid=1468771274053&wsTime=678e46a5&ctype=tars_mp&sv=2110211124&seqid=3206062319303&fs=bgct&ver=1&t=102&uuid=2485751018
-#线路2
+#EXTINF:-1 , tvg-name="英雄手游赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",英雄手游赛事频道-线路2
 https://live.metshop.top/huya/667812
-#线路3
+#EXTINF:-1 , tvg-name="英雄手游赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",英雄手游赛事频道-线路3
 http://1.94.31.214:35455/huya/667812
-#EXTINF:-1 , tvg-name="三角洲赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",三角洲赛事频道
-#线路1
+#EXTINF:-1 , tvg-name="三角洲赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",三角洲赛事频道-线路1
 http://hw.hls.huya.com/src/0-0-0-2399024294824-10057-A-0-1-imgplus.m3u8?uuid=2678396756&sv=2110211124&uid=1468746115556&fs=bgct&ver=1&t=102&wsTime=678e4766&wsSecret=c98e69041768bbd80d2ab7eb3f9ff097&ctype=tars_mp&seqid=3206037353452
-#线路2
+#EXTINF:-1 , tvg-name="三角洲赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",三角洲赛事频道-线路2
 https://live.metshop.top/huya/29447021
-#线路3
+#EXTINF:-1 , tvg-name="三角洲赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",三角洲赛事频道-线路3
 http://1.94.31.214:35455/huya/29447021
-#EXTINF:-1 , tvg-name="炉石传说赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",炉石传说赛事频道
-#线路1
+#EXTINF:-1 , tvg-name="炉石传说赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",炉石传说赛事频道-线路1
 https://live.metshop.top/huya/910323
-#线路2
+#EXTINF:-1 , tvg-name="炉石传说赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",炉石传说赛事频道-线路2
 http://1.94.31.214:35455/huya/910323
-#EXTINF:-1 , tvg-name="CS2激战赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",CS2激战赛事频道
-#线路1
+#EXTINF:-1 , tvg-name="CS2激战赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",CS2激战赛事频道-线路1
 http://hs.hls.huya.com/src/1199557723886-1199557723886-5419597189603131392-2399115571228-10057-A-0-1.m3u8?wsTime=678e47cb&wsSecret=a0e93f84518897bfb30a9bcf045e3e40&fs=bgct&t=102&sv=2110211124&uid=1468779673025&ver=1&ctype=tars_mp&uuid=2779250205&seqid=3206071011774
-#线路2
+#EXTINF:-1 , tvg-name="CS2激战赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",CS2激战赛事频道-线路2
 https://live.metshop.top/huya/23414220
-#线路3
+#EXTINF:-1 , tvg-name="CS2激战赛事频道" tvg-logo="https://live.fanmingming.cn/tv/电竞天堂.png" group-title="游戏竞技频道",CS2激战赛事频道-线路3
 http://1.94.31.214:35455/huya/23414220
 
 
