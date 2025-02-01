@@ -664,9 +664,9 @@ http://go1.bkpcp.top/tl/popc
 #EXTINF:-1 tvg-name="美亚C+" tvg-logo="https://live.fanmingming.cn/tv/美亚C+.png" group-title="港台影视频道",美亚C+（试看-卡台上下切换即可）
 http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 
-#EXTINF:-1 tvg-name="凤凰电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰电影台.png" group-title="香港电视频道",香港凤凰卫视电影台（试看-卡台上下切换即可）
+#EXTINF:-1 tvg-name="凤凰电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰电影台.png" group-title="港台影视频道",香港凤凰卫视电影台（试看-卡台上下切换即可）
 http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="香港电视频道",香港凤凰电影台（试看-卡台上下切换即可）
+#EXTINF:-1 tvg-name="凤凰卫视电影台" tvg-logo="https://live.fanmingming.cn/tv/凤凰卫视电影台.png" group-title="港台影视频道",香港凤凰电影台（试看-卡台上下切换即可）
 http://home.js001.com:7777/stream/channelid/884059847?profile=pass
 
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="https://live.fanmingming.cn/tv/东森电影.png" group-title="港台影视频道",台湾东森电影（试看-卡台上下切换即可）
